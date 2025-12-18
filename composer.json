@@ -15,8 +15,8 @@
 		"email": "marcus@symbiote.com.au"
 	}],
 	"require": {
-		"silverstripe/cms": "~4.0",
-        "nglasl/silverstripe-extensible-search": "~4.0",
+		"silverstripe/cms": "~4.0 || ^5",
+        "nglasl/silverstripe-extensible-search": "~4.0 || dev-feat-silverstripe-5",
         "heyday/silverstripe-elastica": "*",
 		"symbiote/silverstripe-multivaluefield": "*"
 	},
